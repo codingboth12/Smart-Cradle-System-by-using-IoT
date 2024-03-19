@@ -1,1 +1,5 @@
 # Smart-Cradle-System-by-using-IoT
+Cradling is thought to aid in a newborn's development by creating for them a sense of security. The physical benefits are seen in motor skills development, as the arms are free – yet the body is secure. A baby who spends time in the cradling position can, then, play with her hands, and reach for her parent's face.The system architecture consists of a baby cradle that will automatically swing using a motor when the baby cries. Parents can also monitor their babies' condition through an external web camera and switch on the lullaby toy located on the baby cradle remotely via the MQTT server to entertain the baby.
+![WhatsApp Image 2024-03-18 at 9 26 57 PM](https://github.com/codingboth12/Smart-Cradle-System-by-using-IoT/assets/139882771/5473109f-323d-4242-873d-6d08c3b558f0)
+![WhatsApp Image 2024-03-18 at 9 27 06 PM](https://github.com/codingboth12/Smart-Cradle-System-by-using-IoT/assets/139882771/3f9ba3f1-eb22-4058-aee7-eb0621938432)
+![WhatsApp Image 2024-03-18 at 9 27 33 PM](https://github.com/codingboth12/Smart-Cradle-System-by-using-IoT/assets/139882771/042dabcb-bf42-4747-b174-d8729b8359a1)
